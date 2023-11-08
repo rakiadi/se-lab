@@ -36,7 +36,7 @@ public class TorpedoStore {
     boolean success = false;
 
     
-    double r = new generator.nextDouble();  // Compliant
+    double r = generator.nextDouble();  // Compliant
   
       
   
